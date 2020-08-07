@@ -1,2 +1,3 @@
 # API Quiz
-![image of hw](docs/screenshot (2).png)
+
+![image of hw]https://github.com/cruznt/API-Quiz/blob/master/Docs/Screenshot%20(2).png?raw=true
